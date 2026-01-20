@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./public/Matlab.png" alt="Matlab Banner" width="100%">
+</div>
+
 # MATLAB Communication and Signal Processing Experiments
 
 This repository contains a comprehensive collection of MATLAB experiments for **Analog & Digital Communication (ADC)** and **Digital Signal Processing (DSP)**. Each experiment includes the source code and its corresponding output waveform.
